@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				25,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "applause",
+			"indices": [],
+			"name": "mimo 1 applause"
+		},
+		{
+			"offsets": [
+				54,
+				-183
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mimo 1 down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mimo 1 idle"
+		},
+		{
+			"offsets": [
+				135,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mimo 1 left"
+		},
+		{
+			"offsets": [
+				30,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mimo 1 up"
+		},
+		{
+			"offsets": [
+				58,
+				-82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mimo 1 rigth"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mimo_1",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "chu-and-bon",
+	"flip_x": false,
+	"healthbar_colors": [
+		22,
+		23,
+		37
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

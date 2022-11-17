@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				29,
+				-56
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mimo 2 rigth"
+		},
+		{
+			"offsets": [
+				56,
+				-27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "applause",
+			"indices": [],
+			"name": "mimo 2 applause"
+		},
+		{
+			"offsets": [
+				-48,
+				-103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mimo 2 down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mimo 2 idle"
+		},
+		{
+			"offsets": [
+				-27,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mimo 2 up"
+		},
+		{
+			"offsets": [
+				44,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mimo 2 left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mimo_2",
+	"position": [
+		-100,
+		0
+	],
+	"healthicon": "mime-1",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}
