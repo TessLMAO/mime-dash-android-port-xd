@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Mime and dash", "mimes", [22, 23, 37]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"difficulties": "Hard",
+	"hideFreeplay": false
+}
